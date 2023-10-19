@@ -1,0 +1,4 @@
+baseURL = 'https://vijaykiran.com/'
+languageCode = 'en-us'
+title = 'VijayKiran.com'
+theme = 'PaperMod'
